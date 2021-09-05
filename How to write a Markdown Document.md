@@ -101,7 +101,8 @@ https://github.com/popopododo
 
 
 ```markdown
-- Youtube 영상: iframe tag 복사 붙여넣기
+- Youtube 영상: [![alt 텍스트](https://img.youtube.com/vi/YOUTUBE_VID_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VID_ID)
+    썸네일 이미지가 올라가고, 클릭 시 유튜브 영상으로 연결됨
 ```
 
 ### [9]`테이블`: 표를 만들고 싶을 때
