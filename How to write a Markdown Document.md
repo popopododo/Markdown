@@ -97,7 +97,7 @@ https://github.com/popopododo
 ```
 
 ### [8] `동영상`: 영상 삽입 시
-[![(https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201812022340)](https://www.youtube.com/watch?v=MnrJzXM7a6o)
+[![Steve Jobs IPhone](https://img.youtube.com/vi/MnrJzXM7a6o/0.jpg)](https://www.youtube.com/watch?v=MnrJzXM7a6o)
 
 
 ```markdown
