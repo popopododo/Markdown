@@ -98,7 +98,7 @@ https://github.com/popopododo
 
 ### [8] `동영상`: 영상 삽입 시
 
-```<iframe width="560" height="315" src="https://www.youtube.com/embed/MnrJzXM7a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>```
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/MnrJzXM7a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 ```markdown
 - Youtube 영상: iframe tag 복사 붙여넣기
